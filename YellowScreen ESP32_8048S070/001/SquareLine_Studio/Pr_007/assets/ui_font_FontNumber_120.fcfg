@@ -1,0 +1,16 @@
+{
+  "codename": "FontNumber_120",
+  "ttf_path": "/assets/DigitalNumbers-Regular.ttf",
+  "bin_path": "/assets\\ui_font_FontNumber_120.bin",
+  "c_path": "/assets\\ui_font_FontNumber_120.c",
+  "cfg_path": "/assets\\ui_font_FontNumber_120.fcfg",
+  "size": 120,
+  "bpp": 1,
+  "letters": 0,
+  "ranges": [
+    "0x20-0x3f"
+  ],
+  "symbols": "",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}
